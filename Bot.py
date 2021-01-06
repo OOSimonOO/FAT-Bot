@@ -1,7 +1,7 @@
 import discord
 import re
 
-GUILD_ID = 782236049907908629
+GUILD_ID = GUILD_ID
 ADMIN_ROLE = "FAT Admin"
 PREFIX = "!"
 
