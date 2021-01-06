@@ -3,7 +3,7 @@ import re
 
 GUILD_ID = GUILD_ID
 ADMIN_ROLE = "FAT Admin"
-PREFIX = "!"
+PREFIX = "FAT!"
 
 intents = discord.Intents.default()
 intents.members = True
