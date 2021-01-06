@@ -87,4 +87,4 @@ class DiscordBot(discord.Client):
             
             
 bot = DiscordBot(intents=intents)
-bot.run("Nzk2MzI4MzI1OTE5OTMyNDE3.X_WUiw.Qqigx_aafei2kL4FaOREYfGbCxc")
+bot.run(TOKEN)
