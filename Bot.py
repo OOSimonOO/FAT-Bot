@@ -31,7 +31,9 @@ class DiscordBot(discord.Client):
             await message.channel.send(
                 "```Hallo, ich bin der FAT Bot.\n"
                 "Commands:\n"
-                f"\t{PREFIX}bind channel : Bindet den Bot an einen Channel\n"
+                f"\t{PREFIX}bind channel : Bindet den Bot an einen Channel\n\n"
+                "Schaut auch gerne bei meinem GitHub vorbei um den Sourcecode zu erhalten und andere Projekte von mir zu begutachten.\n"
+                "https://github.com/OOSimonOO```"
                 )
             
             
